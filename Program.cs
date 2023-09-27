@@ -13,7 +13,7 @@ namespace COM3D2_DLC_Checker
     {
 
         // Variabels
-        static readonly string DLC_URL = "https://raw.githubusercontent.com/krypto5863/COM3D2_DLC_Checker/master/COM_NewListDLC.lst";
+        static readonly string DLC_URL = "https://raw.githubusercontent.com/WinkelHime/COM3D2_DLC_Checker/master/COM_NewListDLC.lst";
         static readonly string DLC_LIST_PATH = Path.Combine(Directory.GetCurrentDirectory(), "COM_NewListDLC.lst");
 
         static void Main(string[] args)
